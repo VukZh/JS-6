@@ -1,0 +1,17 @@
+{
+  "name": "rss_read",
+  "version": "1.0.0",
+  "description": "rss read, write to mongodb",
+  "main": "rss_reader.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "rss-parser": "^3.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
